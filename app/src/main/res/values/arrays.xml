@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_array">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Chevrolet</item>
+        <item>Ford</item>
+        <item>Daewoo</item>
+        <item>Hyundai</item>
+        <item>Kia</item>
+        <item>Land Rover</item>
+        <item>Lexus</item>
+        <item>Mazda</item>
+        <item>Mercedes-Benz</item>
+        <item>Nissan</item>
+        <item>Porsche</item>
+        <item>Skoda</item>
+        <item>Subaru</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Лада(ВАЗ)</item>
+    </string-array>
+    <string-array name="photo_array">
+        <item>Фото</item>
+
+    </string-array>
+</resources>
